@@ -21,8 +21,8 @@ body{
   color: var(--text);
   background:
     radial-gradient(1200px 500px at 20% -10%, rgba(122,167,255,.25), transparent 60%),
-    radial-gradient(900px 500px at 85% 0%, rgba(108,240,194,.18), transparent 55%),
-    linear-gradient(180deg, var(--bg), #FF00FF 25%);
+    radial-gradient(900px 500px at 85% 0%, rgba(255,25,255,.18), transparent 55%),
+    linear-gradient(180deg, var(--bg), #07080c 75%);
 }
 
 a{ color: inherit; text-decoration: none; }
